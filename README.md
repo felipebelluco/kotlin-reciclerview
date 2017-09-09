@@ -1,2 +1,2 @@
-# kotlin-reciclerview
-KotlinAction: ReciclerView
+# kotlin-recyclerview
+KotlinAction: RecyclerView
